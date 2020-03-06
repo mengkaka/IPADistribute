@@ -18,7 +18,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.soyoung.qingyang.medical</string>
+				<string>com.soyoung.qgyang.medical</string>
 				<key>bundle-version</key>
 				<string>7.43.0</string>
 				<key>kind</key>
