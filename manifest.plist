@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://gitlab.sy.soyoung.com/ximengkai/testipadistribute/raw/master/resignature.ipa</string>
+					<string>https://raw.githubusercontent.com/mengkaka/IPADistribute/master/resignature.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
